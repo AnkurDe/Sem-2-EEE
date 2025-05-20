@@ -41,8 +41,8 @@ Files
 
 ## 📊 Tools & Technologies
 
-- **Python (Jupyter Notebook)** – Model selection and analysis
-- **MATLAB** – PCA, regression training, and data normalization
+- **Python (Jupyter Notebook)** 3.12 – Model selection and analysis
+- **MATLAB**(R2025a) – PCA, regression training, and data normalization
 - **Kaggle Dataset** – Health Index dataset for transformer oil
 
 ---
@@ -67,16 +67,16 @@ Files
 ## 👨‍💻 Team Members
 
 - Ankur De  
-- [Teammate 1's Name]  
-- [Teammate 2's Name]  
-(*Add or edit names as appropriate.*)
+- Jiya Sachdeva
+- Adina Sree Venkat Utham Kumar
+- Mamidi Sai Tanushka
 
 ---
 
 ## 📌 Notes
 
 - Ensure MATLAB and required toolboxes are installed to run `.mlx` and `.mat` files.
-- Python users can run `AI model.ipynb` using standard libraries like `pandas`, `scikit-learn`, etc.
+- Python users can run `AI model.ipynb` refer to requirements.txt
 - Final outputs are located in the **Final model** directory.
 
 ---

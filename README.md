@@ -59,7 +59,7 @@ Files
 
 ## 🧠 Dataset
 
-- **Health index1.csv**: Sourced from Kaggle; contains transformer oil parameters.
+- **Health index1.csv**: [Sourced from Kaggle](https://www.kaggle.com/datasets/shashwatwork/failure-analysis-in-power-transformers-dataset/data); contains transformer oil parameters.
 - Processed via MATLAB and Python scripts for training and evaluation.
 
 ---
